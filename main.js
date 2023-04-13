@@ -1,6 +1,3 @@
-
-// crie uma função de calculadora
-
 function calcular() {
 
     let form = document.getElementById("calculadora");
